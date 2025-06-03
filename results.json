@@ -1,0 +1,1352 @@
+{
+    "urban": {
+        "1": [
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 1,
+                "completion_time": 591.3720109462738,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 2,
+                "completion_time": 675.6175940036774,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 3,
+                "completion_time": 596.540858745575,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 4,
+                "completion_time": 376.17823481559753,
+                "bots_failed": 1,
+                "deliveries_completed": 12,
+                "deliveries_remaining": 8,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": false
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 5,
+                "completion_time": 616.1840438842773,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 6,
+                "completion_time": 552.185928106308,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 7,
+                "completion_time": 652.5350608825684,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 8,
+                "completion_time": 557.8238627910614,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 9,
+                "completion_time": 591.383752822876,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 1,
+                "trial": 10,
+                "completion_time": 1022.7525858879089,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ],
+        "3": [
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 1,
+                "completion_time": 229.24478316307068,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 2,
+                "completion_time": 193.17469096183777,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 3,
+                "completion_time": 236.07170820236206,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 4,
+                "completion_time": 425.7176477909088,
+                "bots_failed": 1,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 5,
+                "completion_time": 242.16104197502136,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 6,
+                "completion_time": 241.2289080619812,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 7,
+                "completion_time": 237.35779976844788,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 8,
+                "completion_time": 266.5257909297943,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 9,
+                "completion_time": 137.79844689369202,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 3,
+                "trial": 10,
+                "completion_time": 209.34931206703186,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ],
+        "5": [
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 1,
+                "completion_time": 95.51685500144958,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 2,
+                "completion_time": 146.87011694908142,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 3,
+                "completion_time": 179.11668300628662,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 4,
+                "completion_time": 171.75276112556458,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 5,
+                "completion_time": 217.43841671943665,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 6,
+                "completion_time": 149.17225408554077,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 7,
+                "completion_time": 106.22267079353333,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 8,
+                "completion_time": 126.00862073898315,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 9,
+                "completion_time": 205.9757740497589,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 5,
+                "trial": 10,
+                "completion_time": 207.59311985969543,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ],
+        "8": [
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 1,
+                "completion_time": 103.93858313560486,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 2,
+                "completion_time": 90.52439904212952,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 3,
+                "completion_time": 111.89159083366394,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 4,
+                "completion_time": 121.83871078491211,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 5,
+                "completion_time": 116.96167874336243,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 6,
+                "completion_time": 143.30982398986816,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 7,
+                "completion_time": 115.29614901542664,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 8,
+                "completion_time": 120.90493607521057,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 9,
+                "completion_time": 152.05715203285217,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "urban",
+                "bot_count": 8,
+                "trial": 10,
+                "completion_time": 97.79621982574463,
+                "bots_failed": 0,
+                "deliveries_completed": 19,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 1,
+                "all_deliveries_completed": false
+            }
+        ]
+    },
+    "suburban": {
+        "1": [
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 1,
+                "completion_time": 492.64918303489685,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 2,
+                "completion_time": 665.8661057949066,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 3,
+                "completion_time": 687.5441699028015,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 4,
+                "completion_time": 675.8536982536316,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 5,
+                "completion_time": 702.6692297458649,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 6,
+                "completion_time": 579.0831747055054,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 7,
+                "completion_time": 623.3393042087555,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 8,
+                "completion_time": 660.6033239364624,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 9,
+                "completion_time": 701.2876088619232,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 1,
+                "trial": 10,
+                "completion_time": 568.175675868988,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ],
+        "3": [
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 1,
+                "completion_time": 219.46749687194824,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 2,
+                "completion_time": 223.71243333816528,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 3,
+                "completion_time": 213.5851080417633,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 4,
+                "completion_time": 254.94311594963074,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 5,
+                "completion_time": 237.7372851371765,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 6,
+                "completion_time": 180.6072919368744,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 7,
+                "completion_time": 205.43285298347473,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 8,
+                "completion_time": 262.59553384780884,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 9,
+                "completion_time": 251.66496586799622,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 3,
+                "trial": 10,
+                "completion_time": 249.7225091457367,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ],
+        "5": [
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 1,
+                "completion_time": 147.9224100112915,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 2,
+                "completion_time": 148.7565038204193,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 3,
+                "completion_time": 147.0953118801117,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 4,
+                "completion_time": 176.66103076934814,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 5,
+                "completion_time": 162.40454006195068,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 6,
+                "completion_time": 143.20057773590088,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 7,
+                "completion_time": 138.02423310279846,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 8,
+                "completion_time": 143.07825112342834,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 9,
+                "completion_time": 134.74785685539246,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 5,
+                "trial": 10,
+                "completion_time": 156.121435880661,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ],
+        "8": [
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 1,
+                "completion_time": 95.46184706687927,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 2,
+                "completion_time": 108.223562002182,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 3,
+                "completion_time": 120.22273087501526,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 4,
+                "completion_time": 116.19698810577393,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 5,
+                "completion_time": 121.91491222381592,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 6,
+                "completion_time": 120.28611087799072,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 7,
+                "completion_time": 91.98495483398438,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 8,
+                "completion_time": 100.58501482009888,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 9,
+                "completion_time": 75.67017197608948,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "suburban",
+                "bot_count": 8,
+                "trial": 10,
+                "completion_time": 121.78101205825806,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ]
+    },
+    "rural": {
+        "1": [
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 1,
+                "completion_time": 660.0182330608368,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 2,
+                "completion_time": 677.7259771823883,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 3,
+                "completion_time": 614.1546311378479,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 4,
+                "completion_time": 731.1539378166199,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 5,
+                "completion_time": 586.0898928642273,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 6,
+                "completion_time": 650.6010820865631,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 7,
+                "completion_time": 447.71143913269043,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 8,
+                "completion_time": 499.13262391090393,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 9,
+                "completion_time": 594.4494431018829,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 1,
+                "trial": 10,
+                "completion_time": 892.6247069835663,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ],
+        "3": [
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 1,
+                "completion_time": 246.08010697364807,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 2,
+                "completion_time": 147.98344588279724,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 3,
+                "completion_time": 191.69636416435242,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 4,
+                "completion_time": 183.1916220188141,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 5,
+                "completion_time": 258.8394811153412,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 6,
+                "completion_time": 191.42469191551208,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 7,
+                "completion_time": 202.24049472808838,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 8,
+                "completion_time": 184.57803797721863,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 9,
+                "completion_time": 114.50462913513184,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 3,
+                "trial": 10,
+                "completion_time": 184.26107597351074,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ],
+        "5": [
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 1,
+                "completion_time": 176.01224279403687,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 2,
+                "completion_time": 133.54291605949402,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 3,
+                "completion_time": 139.00593996047974,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 4,
+                "completion_time": 137.2156879901886,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 5,
+                "completion_time": 121.38517308235168,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 6,
+                "completion_time": 129.47690391540527,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 7,
+                "completion_time": 131.47131896018982,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 8,
+                "completion_time": 171.99799180030823,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 9,
+                "completion_time": 91.80131411552429,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 5,
+                "trial": 10,
+                "completion_time": 138.30791115760803,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ],
+        "8": [
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 1,
+                "completion_time": 77.67250680923462,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 2,
+                "completion_time": 88.20093274116516,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 3,
+                "completion_time": 90.51492309570312,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 4,
+                "completion_time": 129.5648729801178,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 5,
+                "completion_time": 98.64974999427795,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 6,
+                "completion_time": 71.34472322463989,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 7,
+                "completion_time": 59.444141149520874,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 8,
+                "completion_time": 103.31495404243469,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 9,
+                "completion_time": 123.31884121894836,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            },
+            {
+                "grid_type": "rural",
+                "bot_count": 8,
+                "trial": 10,
+                "completion_time": 103.68724298477173,
+                "bots_failed": 0,
+                "deliveries_completed": 20,
+                "deliveries_remaining": 0,
+                "failed_delivery_points": 0,
+                "all_deliveries_completed": true
+            }
+        ]
+    }
+}
